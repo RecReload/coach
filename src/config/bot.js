@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "RecReload", // required by Discord API, not shown in the client
-        state: "playing RecReload",     // this is what people actually see
+        state: "RecReload is down for maintance ",     // this is what people actually see
         type: 0,               // Custom
       },
     ],
