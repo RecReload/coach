@@ -548,6 +548,7 @@ const COMMAND_CATEGORY_FEATURE_MAP = {
   utility: "utility",
   verification: "verification",
   welcome: "welcome",
+  RecReloadwebsitecreate: "RecReload website create" 
 };
 
 function normalizeCategoryKey(category) {
